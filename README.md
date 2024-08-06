@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/81bd3968-4394-4c6a-8e3c-14ef91c4d397)
+![image](https://github.com/user-attachments/assets/729678b9-a346-42bd-9023-b334d18ba303)
 
 # COMPANY DIGITAL_NOMADS 
 
