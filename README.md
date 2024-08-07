@@ -1,9 +1,9 @@
 # <p align="center"> ![image](https://github.com/user-attachments/assets/729678b9-a346-42bd-9023-b334d18ba303)
 
 ## <p align="center">  COMPANY DIGITAL_NOMADS </p>
-
-Тестовое задание компании DIGITAL_NOMADS 
-
+#
+Тестовое задание компании DIGITAL_NOMADS https://github.com/HunterBjj/DIGITAL_NOMADS/blob/7a5a682e0db7836cbf97b58efe720110f2b344b7/test_task
+#
 
 # <p align="center"> ![image](https://github.com/user-attachments/assets/13efe14e-b227-462d-93d4-d63077d721ff) </p>
 <p align="center"> Рисунок 1 - Список задач </p>
