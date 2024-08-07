@@ -2,6 +2,9 @@
 
 ## <p align="center">  COMPANY DIGITAL_NOMADS </p>
 
+Тестовое задание компании DIGITAL_NOMADS 
+
+
 # <p align="center"> ![image](https://github.com/user-attachments/assets/13efe14e-b227-462d-93d4-d63077d721ff) </p>
 <p align="center"> Рисунок 1 - Список задач </p>
 
