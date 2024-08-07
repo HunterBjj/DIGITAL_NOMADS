@@ -20,7 +20,7 @@
 
 
 
-## Запуск проекта: 
+#### Запуск проекта: 
 
 
 Шаги для запуска проекта
@@ -44,8 +44,6 @@ Android Studio: Для клиентской части.
 
 Склонируйте ваш репозиторий с GitHub или другого хостинга кода:
 
-
-Gradle: Хотя Android Studio и Spring Boot включают Gradle Wrapper, лучше установить Gradle глобально.
 
 git clone https://github.com/HunterBjj/DIGITAL_NOMADS.git
 
